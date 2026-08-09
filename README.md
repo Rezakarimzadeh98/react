@@ -67,7 +67,7 @@ Facebook has adopted a Code of Conduct that we expect project participants to ad
 
 ### [Contributing Guide](https://legacy.reactjs.org/docs/how-to-contribute.html)
 
-Read our [contributing guide](https://legacy.reactjs.org/docs/how-to-contribute.html) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to React.
+Read our [contributing guide](https://legacy.reactjs.org/docs/how-to-contribute.html) to learn about our development process, how to propose bug fixes and improvements, and how to build and test your changes to React.
 
 ### [Good First Issues](https://github.com/facebook/react/labels/good%20first%20issue)
 
