@@ -1,4 +1,18 @@
 {
+  "name": "react-monorepo",
+  "description": "Fork of the React monorepo used for contribution and upstream collaboration.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rezakarimzadeh98/react"
+  },
+  "keywords": [
+    "react",
+    "monorepo",
+    "frontend",
+    "javascript",
+    "open-source"
+  ],
   "private": true,
   "workspaces": [
     "packages/*"
